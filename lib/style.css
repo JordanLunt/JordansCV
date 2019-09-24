@@ -44,7 +44,7 @@ input#cardsInput{
  label {
    text-align: center;
  }
- p {
+ p#link {
    text-align: center;
  }
 
